@@ -147,12 +147,18 @@
   <ItemGroup>
     <ClInclude Include="Arbol.h" />
     <ClInclude Include="Buscador.h" />
+    <ClInclude Include="Indexador.h" />
+    <ClInclude Include="Nodo.h" />
+    <ClInclude Include="nube.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Arbol.cpp" />
     <ClCompile Include="Buscador.cpp" />
+    <ClCompile Include="Indexador.cpp" />
+    <ClCompile Include="Nodo.cpp" />
+    <ClCompile Include="nube.cpp" />
     <ClCompile Include="proyecto-ED.cpp" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
