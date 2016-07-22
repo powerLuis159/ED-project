@@ -2,6 +2,10 @@
 
 
 
+void Indexador::iniciar(DOC documento)
+{
+}
+
 Indexador::Indexador()
 {
 }

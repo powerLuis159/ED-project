@@ -2,6 +2,8 @@
     APLICACIÓN DE CONSOLA: proyecto-ED Información general del proyecto
 ========================================================================
 
+
+
 AppWizard ha creado esta aplicación proyecto-ED.
 
 Este archivo contiene un resumen de lo que encontrará en cada uno de los archivos que constituyen la aplicación proyecto-ED.
@@ -15,7 +17,16 @@ proyecto-ED.vcxproj.filters
 
 proyecto-ED.cpp
     Este es el archivo de código fuente de la aplicación principal.
+////////////////////////////////////////////////////////////////////////////
+Archivos propios
 
+Arbol
+	estrcutura primaria donde se buscaran las palabras
+
+Nodo
+Nube
+Indexador
+Buscador
 /////////////////////////////////////////////////////////////////////////////
 Otros archivos estándar:
 
@@ -23,8 +34,5 @@ StdAfx.h, StdAfx.cpp
     Estos archivos se usan para compilar un archivo de encabezado precompilado (PCH) denominado proyecto-ED.pch y un archivo de tipos precompilados llamado StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
-Otras notas:
-
-El asistente para aplicaciones utiliza comentarios "TODO:" para indicar las partes del código fuente que tendrá que agregar o personalizar.
 
 /////////////////////////////////////////////////////////////////////////////
