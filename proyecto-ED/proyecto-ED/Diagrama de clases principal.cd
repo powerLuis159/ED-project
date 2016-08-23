@@ -7,7 +7,7 @@
       <FileName>Arbol.h</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Buscador" Collapsed="true">
+  <Class Name="Buscador">
     <Position X="6.25" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAACAAAAAAAAAA=</HashCode>
@@ -21,14 +21,14 @@
       <FileName>Nodo.h</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Indexador" Collapsed="true">
+  <Class Name="Indexador">
     <Position X="0.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAA=</HashCode>
       <FileName>Indexador.h</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="nube" Collapsed="true">
+  <Class Name="nube">
     <Position X="6.25" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
